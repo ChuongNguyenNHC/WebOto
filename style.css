@@ -20,8 +20,7 @@ body {
     text-align: center;
     justify-content: center;
     position: relative;
-    top: 250px;
-    left: 100px;
+    top: 100px;
 }
 .inputbox {
     margin: 20px;
